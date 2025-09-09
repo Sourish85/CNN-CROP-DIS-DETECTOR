@@ -1,4 +1,4 @@
-# CNN-CROP-DIS-DETECTOR
+# SYLVASYNTH: CNN-CROP-DIS-DETECTOR
 
 This repository contains code and results for a CNN-based multi-class classification system for crop disease detection from leaf images. The model includes t-SNE visualization of feature embeddings for interpretability.
 
